@@ -1,0 +1,12 @@
+d:\app\Credit\Credit\bin\Debug\Credit.exe.config
+d:\app\Credit\Credit\obj\Debug\Credit.csprojResolveAssemblyReference.cache
+d:\app\Credit\Credit\bin\Debug\Credit.exe
+d:\app\Credit\Credit\bin\Debug\Credit.pdb
+d:\app\Credit\Credit\obj\Debug\Credit.exe
+d:\app\Credit\Credit\obj\Debug\Credit.pdb
+C:\app\Credit\Credit\bin\Debug\Credit.exe.config
+C:\app\Credit\Credit\obj\Debug\Credit.exe
+C:\app\Credit\Credit\obj\Debug\Credit.pdb
+C:\app\Credit\Credit\bin\Debug\Credit.exe
+C:\app\Credit\Credit\bin\Debug\Credit.pdb
+C:\app\Credit\Credit\obj\Debug\Credit.csprojResolveAssemblyReference.cache
